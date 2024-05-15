@@ -18,7 +18,18 @@ __Техническое задание__
    - покупки — `purchase`.
  
 
-##
+## Навыки и инструменты
+
+- Python,
+- Pandas,
+- Numpy,
+- Matplotlib,
+- Seaborn,
+- Plotly,
+- Graph objects,
+- Scipy,
+- Datetime,
+- A/B-тестирование
 
 ## Вывод
 
